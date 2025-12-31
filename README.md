@@ -1,13 +1,13 @@
-﻿﻿﻿﻿﻿﻿﻿<h1 align="center">
+﻿﻿﻿﻿﻿﻿﻿﻿<h1 align="center">
   LLM-SE
 </h1>
 
 <h4 align="center">Beyond Embedding Fusion: LLM-Driven Structural Enhancement for Multimodal Knowledge Graph Completion</h4>
 
 <h2 align="center">
-  Overview of LLM-SE
   <img align="center"  src="overview.png" alt="...">
 </h2>
+
 
 
 This repository includes the source code of the paper submitted to ACL 2026. 
